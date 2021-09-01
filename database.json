@@ -1,0 +1,23 @@
+{
+    "homes": [
+        {
+            "id": 1,
+            "title": "3b3b",
+            "address": "110 Nashville Beach Street",
+            "zipcode": "37075",
+            "userId": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Tingting Duan",
+            "contact": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Hannah Hall",
+            "contact": "7002 Chestnut Ct"
+        }
+    ]
+}
