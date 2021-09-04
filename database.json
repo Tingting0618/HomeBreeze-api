@@ -17,6 +17,15 @@
             "price": 599000,
             "imageUrl":" https://d3mi7e2vp4lzjl.cloudfront.net/9cad1f15343e33a7abd058fada9b8c79098a3bd1_img_0/640x480.jpg",
             "userId": 2
+        },
+        {
+            "id": 3,
+            "address": "123 Nashville Road",
+            "desc":"Located in the heart of Green Hills & just a short walk on sidewalks to shops & fine dining, this stunning home boasts walls of floor to ceiling windows, on-site parking with garage & Tesla charger.",
+            "zipcode": "37075",
+            "price": 949999,
+            "imageUrl":" https://www.compass.com/m2/1fb170573264ea0a8ce7bcade33f69b62e4c1f0d_img_0/1500x1000.jpg",
+            "userId": 2
         }
        
     ],
