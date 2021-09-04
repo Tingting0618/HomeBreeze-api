@@ -1,44 +1,43 @@
 {
-    "homes": [
-        {
-            "id": 1,
-            "address": "110 Nashville Beach Street",
-            "desc":"Stunning contemporary build located in the heart of Gulch View. This home has it all, roof top views and terraces that are perfect for entertaining.A must see!",
-            "zipcode": "37075",
-            "price": 300000,
-            "imageUrl":"https://www.cottagesgardens.com/content/uploads/data-import/0cf36f3e/Judy-Garland-Malibu-Beach-House-Sells-Wizard-of-Oz-Fan-3-5M-living-room.jpg",
-            "userId": 2
-        },
-        {
-            "id": 2,
-            "address": "914 Green Street",
-            "desc":"Brand new 3 bed/3.5 bath HPR in the heart of downtown Franklin. Impeccable layout, perfectly designed for today’s lifestyles.All that’s missing is you!",
-            "zipcode": "37075",
-            "price": 599000,
-            "imageUrl":" https://d3mi7e2vp4lzjl.cloudfront.net/9cad1f15343e33a7abd058fada9b8c79098a3bd1_img_0/640x480.jpg",
-            "userId": 2
-        },
-        {
-            "id": 3,
-            "address": "123 Nashville Road",
-            "desc":"Located in the heart of Green Hills & just a short walk on sidewalks to shops & fine dining, this stunning home boasts walls of floor to ceiling windows, on-site parking with garage & Tesla charger.",
-            "zipcode": "37075",
-            "price": 949999,
-            "imageUrl":" https://www.compass.com/m2/1fb170573264ea0a8ce7bcade33f69b62e4c1f0d_img_0/1500x1000.jpg",
-            "userId": 2
-        }
-       
-    ],
-    "users": [
-        {
-            "id": 1,
-            "name": "Tingting Duan",
-            "email": "td@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "Hannah Hall",
-            "email": "hh@gmail.com"
-        }
-    ]
+  "homes": [
+    {
+      "id": 1,
+      "address": "110 Nashville Beach Street",
+      "desc": "Stunning contemporary build located in the heart of Gulch View. This home has it all, roof top views and terraces that are perfect for entertaining.A must see!",
+      "zipcode": "37075",
+      "price": 300000,
+      "imageUrl": "https://www.cottagesgardens.com/content/uploads/data-import/0cf36f3e/Judy-Garland-Malibu-Beach-House-Sells-Wizard-of-Oz-Fan-3-5M-living-room.jpg",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "address": "914 Green Street",
+      "desc": "Brand new 3 bed/3.5 bath HPR in the heart of downtown Franklin. Impeccable layout, perfectly designed for today’s lifestyles.All that’s missing is you!",
+      "zipcode": "37075",
+      "price": 599000,
+      "imageUrl": " https://d3mi7e2vp4lzjl.cloudfront.net/9cad1f15343e33a7abd058fada9b8c79098a3bd1_img_0/640x480.jpg",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "address": "123 Nashville Road",
+      "desc": "Located in the heart of Green Hills & just a short walk on sidewalks to shops & fine dining, this stunning home boasts walls of floor to ceiling windows, on-site parking with garage & Tesla charger.",
+      "zipcode": "37075",
+      "price": 949999,
+      "imageUrl": " https://www.compass.com/m2/1fb170573264ea0a8ce7bcade33f69b62e4c1f0d_img_0/1500x1000.jpg",
+      "userId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tingting Duan",
+      "email": "td@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Hannah Hall",
+      "email": "hh@gmail.com"
+    }
+  ]
 }
